@@ -16,9 +16,9 @@ namespace EgeSharp
         public Product Product { get; set; }
 
 
-        public static Sale AddSale(Employee employee , Product product , DateTime time , int amount)
+        public static Sale AddSale(Employee employee , Product product , DateTime time , int amountt)
         {
-            return new Sale() { Id = employee.Id, ProductId = product.Id, EmployeeId = employee.Id, Time = time, Amount = amount , Employee = employee , Product = product };
+            return new Sale() { Id = employee.Id, ProductId = product.Id, EmployeeId = employee.Id, Time = time, Amount = amountt , Employee = employee , Product = product };
         }
 
 

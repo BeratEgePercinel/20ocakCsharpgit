@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/BKrSKV3MpJj/8bxYyFBHA1X/41EepkKPGt2Sn5L+qN2IrmRZKJ3JZB8ySE1vDO5086cLc5hGNXP/Vm0ymV1LA==",
+  "dgSpecHash": "oOEkkcDH2aD3ooPAbKST+4jKSaSYupN3WUhExXKgLnSuKpv2WF31P8LrIlKaNWMS5py11Xh75ALHNFs97T3thA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ege\\source\\repos\\EgeDers\\EgeSharp\\EgeSharp.csproj",
+  "projectFilePath": "D:\\repos\\DERSLER\\20ocakCsharpgit\\EgeSharp\\EgeSharp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ege\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+    "C:\\Users\\Efe\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

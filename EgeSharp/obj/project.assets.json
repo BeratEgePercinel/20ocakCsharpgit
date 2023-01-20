@@ -43,24 +43,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ege\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Efe\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ege\\source\\repos\\EgeDers\\EgeSharp\\EgeSharp.csproj",
+      "projectUniqueName": "D:\\repos\\DERSLER\\20ocakCsharpgit\\EgeSharp\\EgeSharp.csproj",
       "projectName": "EgeSharp",
-      "projectPath": "C:\\Users\\Ege\\source\\repos\\EgeDers\\EgeSharp\\EgeSharp.csproj",
-      "packagesPath": "C:\\Users\\Ege\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ege\\source\\repos\\EgeDers\\EgeSharp\\obj\\",
+      "projectPath": "D:\\repos\\DERSLER\\20ocakCsharpgit\\EgeSharp\\EgeSharp.csproj",
+      "packagesPath": "C:\\Users\\Efe\\.nuget\\packages\\",
+      "outputPath": "D:\\repos\\DERSLER\\20ocakCsharpgit\\EgeSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ege\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Efe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -106,7 +105,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.113\\RuntimeIdentifierGraph.json"
       }
     }
   }
